@@ -2,6 +2,10 @@
 
 A unique, sci-fi horror themed portfolio website that combines futuristic design elements with an unsettling alien aesthetic. This portfolio template is perfect for developers, designers, or creative professionals who want to showcase their work with a distinctive and memorable presentation.
 
+## 🔗 Live Demo
+
+Check out the live demo: [Alien Horror Theme Portfolio](https://colaguevz.github.io/Sample-Portfolio--Alien-Horror-Theme-/)
+
 ## 🌟 Features
 
 - **Alien-Inspired Design**: Dark, space-themed color scheme with glowing accents and cyberpunk elements
